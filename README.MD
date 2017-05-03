@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/43750163/spring-boot-jpa-jointable-with-existing-mapping-table-ignoring-generatedvalue
